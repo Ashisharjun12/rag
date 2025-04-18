@@ -6,7 +6,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Olla
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Ashisharjun12/rag_pdf.git
+git clone https://github.com/Ashisharjun12/rag.git
 cd rag
 ```
 
